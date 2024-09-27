@@ -1,0 +1,3 @@
+C:\Users\Горобчиха\Desktop\study\університет\с++\лабораторні\ЛабораторнаРобота4\ЛабораторнаРобота4\Debug\ЛабораторнаРобота4.vcxproj.AssemblyReference.cache
+C:\Users\Горобчиха\Desktop\study\університет\с++\лабораторні\ЛабораторнаРобота4\ЛабораторнаРобота4\Debug\ЛабораторнаРобота4.MyForm.resources
+C:\Users\Горобчиха\Desktop\study\університет\с++\лабораторні\ЛабораторнаРобота4\ЛабораторнаРобота4\Debug\ЛабораторнаРобота4.vcxproj.GenerateResource.cache

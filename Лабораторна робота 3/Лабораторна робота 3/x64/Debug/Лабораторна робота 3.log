@@ -1,0 +1,5 @@
+﻿  Лабораторна робота 3.cpp
+C:\Users\Горобчиха\Desktop\study\університет\с++\лабораторні\Лабораторна робота 3\Лабораторна робота 3\Лабораторна робота 3.cpp(70,1): error C4700: uninitialized local variable 'x' used
+C:\Users\Горобчиха\Desktop\study\університет\с++\лабораторні\Лабораторна робота 3\Лабораторна робота 3\Лабораторна робота 3.cpp(70,1): error C4700: uninitialized local variable 'y' used
+C:\Users\Горобчиха\Desktop\study\університет\с++\лабораторні\Лабораторна робота 3\Лабораторна робота 3\Лабораторна робота 3.cpp(70,1): error C4700: uninitialized local variable 'z' used
+C:\Users\Горобчиха\Desktop\study\університет\с++\лабораторні\Лабораторна робота 3\Лабораторна робота 3\Лабораторна робота 3.cpp(80,1): error C4700: uninitialized local variable 'average' used

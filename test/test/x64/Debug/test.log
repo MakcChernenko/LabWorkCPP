@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  MyForm.cpp
+  test.cpp
+  Generating Code...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+LINK : fatal error LNK1104: cannot open file 'C:\Users\Горобчиха\Desktop\study\університет\с++\лабораторні\test\x64\Debug\test.exe'
